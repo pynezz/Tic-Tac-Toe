@@ -1,0 +1,3 @@
+function addImg() {
+    alert("img");
+}
